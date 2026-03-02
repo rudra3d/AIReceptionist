@@ -150,7 +150,7 @@ def _get_caller_identity(ctx: agents.JobContext) -> str:
 server = AgentServer()
 
 
-@server.rtc_session(agent_name="receptionist")
+@server.rtc_session()
 async def handle_call(ctx: agents.JobContext):
     config = load_business_config(ctx)
 
